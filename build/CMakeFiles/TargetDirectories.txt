@@ -1,0 +1,4 @@
+/home/mark/Programs/Projects/SimpleCalculator/build/CMakeFiles/rebuild_cache.dir
+/home/mark/Programs/Projects/SimpleCalculator/build/CMakeFiles/edit_cache.dir
+/home/mark/Programs/Projects/SimpleCalculator/build/CMakeFiles/SCLib.dir
+/home/mark/Programs/Projects/SimpleCalculator/build/CMakeFiles/SimpleCalculator.dir

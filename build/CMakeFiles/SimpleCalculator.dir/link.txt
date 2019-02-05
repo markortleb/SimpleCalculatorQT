@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/SimpleCalculator.dir/src/main.cpp.o  -o SimpleCalculator -Wl,-rpath,/home/mark/Programs/Projects/SimpleCalculator/build libSCLib.so /usr/lib/libQt5Widgets.so.5.11.2 /usr/lib/libQt5Gui.so.5.11.2 /usr/lib/libQt5Core.so.5.11.2 

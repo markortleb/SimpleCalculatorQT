@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libSCLib.so -o libSCLib.so CMakeFiles/SCLib.dir/src/SimpleCalculator.cpp.o CMakeFiles/SCLib.dir/include/moc_SimpleCalculator.cpp.o CMakeFiles/SCLib.dir/src/utility.cpp.o /usr/lib/libQt5Widgets.so.5.11.2 /usr/lib/libQt5Gui.so.5.11.2 /usr/lib/libQt5Core.so.5.11.2 
